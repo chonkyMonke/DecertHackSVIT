@@ -1,0 +1,13 @@
+{
+  "name": "First NFT",
+  "symbol": "TUT",
+  "description": "First NFT",
+  "decimals": 0,
+  "isTransferable": true,
+  "shouldPreferSymbol": false,
+  "isBooleanAmount": true,
+  "artifactUri": "ipfs://bafkreifxo6ng5osyhutht36i6mxmojsowstdde2yxnaihuf6iysalnyije",
+  "displayUri": "ipfs://bafkreifxo6ng5osyhutht36i6mxmojsowstdde2yxnaihuf6iysalnyije",
+  "thumbnailUri": "ipfs://bafkreifxo6ng5osyhutht36i6mxmojsowstdde2yxnaihuf6iysalnyije",
+  "creators": ["agnxsh"]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "decertapi",
+  "version": "0.1.2",
+  "description": "Api to upload certificates and mint to users account",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "mocha --recursive --timeout 3600000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeCert-dev/api.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "bartick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeCert-dev/api/issues"
+  },
+  "homepage": "https://github.com/DeCert-dev/api#readme",
+  "dependencies": {
+    "@taquito/beacon-wallet": "^12.0.3",
+    "@taquito/signer": "^12.0.3",
+    "@taquito/taquito": "^12.0.3",
+    "@taquito/utils": "^12.0.3",
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.3",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "morgan": "^1.10.0",
+    "web3.storage": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
