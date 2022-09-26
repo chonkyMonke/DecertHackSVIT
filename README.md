@@ -100,7 +100,7 @@ The data which is now minted, on the desired network and is now stored on the de
 
 - <img src="https://www.blockchainacademy.asia/wp-content/uploads/2019/04/solidity-188x300.png" width=10> Solidity
 - <img src="https://smartpy.io/static/img/logo-only.svg" width=12> Smartpy
-- <img src="./images/ligo.png" alt="Ligo">
+- <img src="./images/ligo.png" alt="Ligo" width=12> LigoLANG
 
 # Principle Idea
 
